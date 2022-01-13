@@ -1,0 +1,6 @@
+{"username": "gosho4", "password": "123123", "firstName": "gosho", "lastName": "goshov"}
+{"username": "pesho3", "password": "123123!", "firstName": "pesho", "lastName": "peshov"}
+{"username": "stamat1", "password": "123123", "firstName": "stamat", "lastName": "stamatov"}
+{"username": "kiro2", "password": "123123", "firstName": "kiro", "lastName": "kirov"}
+{"username": "stefan3", "password": "123123", "firstName": "stefan", "lastName": "stefanov"}
+{"username": "pepi", "password": "123123", "firstName": "peter", "lastName": "petrov"}
